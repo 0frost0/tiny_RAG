@@ -55,7 +55,7 @@ TinyRAG/
 ├── VectorBase.py         # [模块] 向量数据库管理
 ├── LLM.py                # [模块] 大模型对话包装
 ├── data/                 # [输入] 存放你的 PDF/TXT 参考文档
-│   └── 信息论基础.pdf
+│   └── test.txt
 └── storage/              # [输出] 自动生成的向量数据库（请勿手动修改）
     ├── document.json     # 存储切片后的文本内容
     └── vectors.json      # 存储对应的向量数据
